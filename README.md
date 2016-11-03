@@ -30,4 +30,3 @@ Run the following in R to make the connection: <br />
 cy <- CytoscapeConnection() <br />
 For additional instructions read the RCy3_documentation pdf. <br />
 Note that some instructions in the pdf may or may not be outdated. <br />
-
