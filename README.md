@@ -1,7 +1,7 @@
-Title: computional_biology_project	
-Background: This project is undergrad research for Mark Grimes.	
-Start date: September 2016	
-Objective: Create an interactive web application that uses Mark's existing work on the interaction	of gene/protein networks.	
+Title: computional_biology_project <br />	
+Background: This project is undergrad research for Mark Grimes.	<br />
+Start date: September 2016 <br />	
+Objective: Create an interactive web application that uses Mark's existing work on the interaction	of gene/protein networks. <br />	
 
 The packages folder includes additional packages needed for RCy3 to run and some for RCyjs to run. R will notify you if more dependencies are needed. Install these if R instructs. 
 
