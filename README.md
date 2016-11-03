@@ -1,10 +1,10 @@
-Title: computional_biology_project
-Background: This project is undergrad research
-for Mark Grimes. 
-Start date: September 2016
-Objective: Create an interactive web application
-that uses Mark's existing work on the interaction
-of gene/protein networks. 
+Title: computional_biology_project	
+Background: This project is undergrad research	
+for Mark Grimes.	
+Start date: September 2016	
+Objective: Create an interactive web application	
+that uses Mark's existing work on the interaction	
+of gene/protein networks.	
 
 The packages folder includes additional packages 
 needed for RCy3 to run and some for RCyjs to run. 
@@ -13,15 +13,8 @@ Install these if R instructs.
 
 Versions:
 R 		3.3.1 64 bit	
-RCyjs 		1.7.0	
-		NOTE: Do not install RCyjs with 
-		biocLite("RCyjs"). It will revert 
-		you to an old version.	
-RCy3		1.2.0	
-		NOTE: Do not install with 
-		biocLite("RCy3"). It reverts to 
-		an old version that will not work 
-		with R 3.3.1.	 
+RCyjs 		1.7.0 NOTE: Do not install RCyjs with biocLite("RCyjs"). It will revert you to an old version.	
+RCy3		1.2.0 NOTE: Do not install with biocLite("RCy3"). It reverts to an old version that will not work with R 3.3.1.	 
 BrowserViz 	1.7.0	
 BiocInstaller 	1.24.0	
 Bioconductor	3.4	
